@@ -1,0 +1,18 @@
+#boardTable tr:not(:first-child):hover { background-color: #a8a8a8;  cursor: pointer; }
+
+.selected { color: chocolate; }
+
+.pageContainer { display: flex; padding: 10px 50px; justify-content: center;}
+.pageContainer div:not(:first-child) { margin-left: 8px;}
+
+.pageContainer div:not(:first-child) { margin-left: 8px; }
+
+
+
+.cmtCountBtn {
+    border-radius: 5px; background-color: #aabbf3; padding: 3px; border: none;
+}
+
+.searchList {
+    margin-bottom: 10px;
+}
